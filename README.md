@@ -106,11 +106,13 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|:---|:---|:---|
-| 🎮 **One Shelf Left** | 3D co-op horror game prototype built around supermarket night-shift mechanics and cooperative survival gameplay. | `Godot` `GDScript` `3D` |
-| 📚 **Competitive Programming Repository** | Topic-wise archive of solved C++ algorithm problems from Codeforces, CSES, and e-olymp. | `C++` `Algorithms` `DSA` |
-| 🔐 **Cybersecurity & Ethical Hacking Labs** | Hands-on notes from OverTheWire Bandit and PortSwigger labs covering Linux command-line, networking, and web application vulnerabilities. | `Linux` `Burp Suite` `WebSec` |
+<!-- featured:projects:start -->
+| Project | Description | Stack | Stars |
+|:---|:---|:---|:---|
+| **[RepCoun](https://github.com/ItzRza/RepCoun)** | _No description yet_ | `JavaScript` | ⭐ 0 |
+| **[Front-end](https://github.com/ItzRza/Front-end)** | Front-end github repository | `HTML` | ⭐ 0 |
+| **[mc-mod-version-changer](https://github.com/ItzRza/mc-mod-version-changer)** | _No description yet_ | `Python` | ⭐ 0 |
+<!-- featured:projects:end -->
 
 ---
 
