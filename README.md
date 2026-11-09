@@ -117,6 +117,10 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <img src="https://gitblend.com/api/contributions/github?username=itzrza&theme=dark" alt="GitHub contributions" />
+</p>
+
+<p align="center">
   <img height="170em" src="https://github-stats-extended.vercel.app/api?username=itzrza&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&rank_icon=github" alt="GitHub stats" />
   <img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=itzrza&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top languages" />
 </p>
