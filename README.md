@@ -27,14 +27,14 @@
 
 ```diff
 + 🎯 Focus    : Algorithm Design · Web Security · Game Development
-+ 🛠️ Building : C++ Test Case Generator · One Shelf Left (3D Co-Op Horror)
++ 🛠️ Building : Game Development · App Development
 + 🧩 Solving  : Codeforces · CSES · e-olymp
 ```
 
 - 📍 **Based in Baku, Azerbaijan** — living in Baku and always open to collaboration on web security, algorithms, and game dev projects.
 - 🧑‍💻 **Young Developer** — actively building software projects, exploring lower-level system concepts, and refining coding logic.
 - 🏆 **Informatics Olympiads** — training intensively for competitive programming competitions (Azercell Cup and regional informatics contests).
-- 🛠️ **Active Projects** — developing custom C++ test case generation utilities and building game logic for a 3D co-op horror game.
+- 🛠️ **Active Projects** — building game logic for a 3D co-op horror game and developing new applications.
 - 🧩 **Problem Solving** — actively solving algorithmic challenges on Codeforces, CSES, and e-olymp.
 
 <table>
@@ -108,7 +108,6 @@
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| 🧪 **C++ Test Case Generator** | Desktop tool built with C++ and Python (CustomTkinter) that automatically generates test cases for competitive programming problems and verifies solution correctness. | `C++` `Python` `CustomTkinter` |
 | 🎮 **One Shelf Left** | 3D co-op horror game prototype built around supermarket night-shift mechanics and cooperative survival gameplay. | `Godot` `GDScript` `3D` |
 | 📚 **Competitive Programming Repository** | Topic-wise archive of solved C++ algorithm problems from Codeforces, CSES, and e-olymp. | `C++` `Algorithms` `DSA` |
 | 🔐 **Cybersecurity & Ethical Hacking Labs** | Hands-on notes from OverTheWire Bandit and PortSwigger labs covering Linux command-line, networking, and web application vulnerabilities. | `Linux` `Burp Suite` `WebSec` |
