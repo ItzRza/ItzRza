@@ -109,6 +109,7 @@
 <!-- featured:projects:start -->
 | Project | Description | Stack | Stars |
 |:---|:---|:---|:---|
+| **[Traffic-Controller](https://github.com/ItzRza/Traffic-Controller)** | _No description yet_ | — | ⭐ 0 |
 | **[RepCoun](https://github.com/ItzRza/RepCoun)** | _No description yet_ | `JavaScript` | ⭐ 0 |
 | **[Front-end](https://github.com/ItzRza/Front-end)** | Front-end github repository | `HTML` | ⭐ 0 |
 | **[mc-mod-version-changer](https://github.com/ItzRza/mc-mod-version-changer)** | _No description yet_ | `Python` | ⭐ 0 |
